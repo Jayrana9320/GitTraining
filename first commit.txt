@@ -1,1 +1,2 @@
 commit basic function 
+added some lines. 
