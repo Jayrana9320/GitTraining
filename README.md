@@ -1,3 +1,3 @@
 # GitTraining
 # added hastag
-# change credentials
+# changed credentials
